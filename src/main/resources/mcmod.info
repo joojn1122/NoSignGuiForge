@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "No Sign Gui",
+    "description": "A mod that hides Sign GUI when shifting.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/joojn1122/NoSignGuiForge/",
+    "updateUrl": "",
+    "authorList": [
+      "joojn"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
